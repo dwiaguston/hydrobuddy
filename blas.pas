@@ -1,7 +1,7 @@
 {$MODESWITCH RESULT+}
 {$GOTO ON}
 (*************************************************************************
-Copyright (c) 2005-2007, Sergey Bochkanov (ALGLIB project).
+Copyright (c) 2005-2007, Dwi Aguston.
 
 >>> SOURCE LICENSE >>>
 This program is free software; you can redistribute it and/or modify
